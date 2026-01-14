@@ -30,12 +30,13 @@ Currently studying at The University of British Columbia, as a second-year Compu
 
 ### Music
 - Sabaton
-- OST from different games, like Helldivers 2, Space Marines 2, The Witcher 3, etc.
+- OST from different games, like Helldivers 2, Space Marines 2, The Witcher 3, Forza Horizon, etc.
 - Some 70s to 80s rock
 - The Beatles
+- Used to listen to Alan Walker
 
 ### Fun facts
 - I've studed in three kindergartens.
 - I left HK for Canada in 2022.
-- I don't have a big friend group going on, but I treasure the time I spend with individual friends.
+- I don't have a big friend group going on, but I treasure the time I spend with my individual friends.
 - Recently played my first game of tabletop Warhammer 40,000.
