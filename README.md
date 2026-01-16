@@ -10,6 +10,10 @@ Currently studying at The University of British Columbia, as a second-year Compu
 - HTML (intermediate)
 - CSS (intermediate)
 
+### Projects
+- Portfolio (website)
+- Warhammer 40,000 Character Database
+
 ### Interests
 - Video games
 - Warhammer 40,000
@@ -30,7 +34,7 @@ Currently studying at The University of British Columbia, as a second-year Compu
 
 ### Music
 - Sabaton
-- OST from different games, like Helldivers 2, Space Marines 2, The Witcher 3, Forza Horizon, etc.
+- OST from different games, like Helldivers 2, Space Marines 2, The Witcher 3, Forza Horizon, Minecraft, etc.
 - Some 70s to 80s rock
 - The Beatles
 - Used to listen to Alan Walker
