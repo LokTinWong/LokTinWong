@@ -20,6 +20,7 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 
 ### Projects
 - Portfolio (website)
+- CodeBattles (originally a hackathon project, now being further developed)
 - Warhammer 40,000 Character Database
 
 ### Interests
