@@ -6,7 +6,7 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 - HTML (intermediate)
 - CSS (intermediate)
 
-## Learning
+#### Learning
 - C++
 - JavaScript
 - Typescript
