@@ -1,14 +1,22 @@
 ## Hello, I am Lok Tin!
-I am born in Hong Kong but currently living in Vancouver. I can speak English and Cantonese fluently, as well as Mandarin at an intermediate level.
-
-Currently studying at The University of British Columbia, as a second-year Computer Science student.
+I am born in Hong Kong but currently living in Vancouver. Currently studying at The University of British Columbia as a second-year Computer Science student.
 
 ### Programming languages
 - Java
-- C++ (very basic)
-- JavaScript (very basic)
 - HTML (intermediate)
 - CSS (intermediate)
+
+## Learning
+- C++
+- JavaScript
+- Typescript
+- Python
+- R
+
+### Speakable languages
+- English
+- Cantonese
+- Mandarin
 
 ### Projects
 - Portfolio (website)
