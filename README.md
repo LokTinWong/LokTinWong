@@ -3,8 +3,8 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 
 ### Programming languages
 - Java
-- HTML (intermediate)
-- CSS (intermediate)
+- HTML
+- CSS
 
 #### Learning
 - C++
