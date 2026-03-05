@@ -1,4 +1,4 @@
-## Hello, I am Lok Tin!
+## Hello, this is Lok Tin speaking...
 I am born in Hong Kong but currently living in Vancouver. Currently studying at The University of British Columbia as a second-year Computer Science student.
 
 ### Programming languages
