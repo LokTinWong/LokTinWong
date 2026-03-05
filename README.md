@@ -6,12 +6,11 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 - HTML
 - CSS
 
-#### Learning
+Also learning:
 - C++
-- JavaScript
+- JavaScript + React
 - Typescript
 - Python
-- R
 
 ### Speakable languages
 - English
@@ -19,9 +18,15 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 - Mandarin
 
 ### Projects
-- Portfolio (website)
+- Personal Portfolio (website)
 - CodeBattles (originally a hackathon project, now being further developed)
 - Warhammer 40,000 Character Database
+
+### Currently... ⏳
+- Making my Personal Portfolio fancier
+- Playing modded Minecraft
+- Reading The Horus Heresy
+- Planning for future job search
 
 ### Interests
 - Video games
@@ -30,11 +35,11 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 - Writing
 - History
 - Working out (if I can find the motivation)
-- Recording and editing videos (not currently)
+- Recording and editing videos (not at the moment)
 
 ### Games played in the last year
 - Total War: Warhammer III
-- GTA V
+- Grand Theft Auto V
 - Minecraft
 - Sniper Elite 5
 - Need for Speed: Most Wanted (2012)
@@ -43,7 +48,7 @@ I am born in Hong Kong but currently living in Vancouver. Currently studying at 
 
 ### Music
 - Sabaton
-- OST from different games, like Helldivers 2, Space Marines 2, The Witcher 3, Forza Horizon, Minecraft, etc.
+- OST from different games, like Helldivers 2, Space Marines 2, Darktide, The Witcher 3, Forza Horizon, Minecraft, etc.
 - Some 70s to 80s rock
 - The Beatles
 - Used to listen to Alan Walker
