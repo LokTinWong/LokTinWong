@@ -23,10 +23,10 @@ Also learning:
 - Warhammer 40,000 Character Database
 
 ### Currently... ⏳
+- Job searching
 - Making my Personal Portfolio fancier
 - Playing modded Minecraft
 - Reading The Horus Heresy
-- Planning for future job search
 
 ### Interests
 - Video games
