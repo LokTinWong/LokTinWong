@@ -34,8 +34,8 @@ Also learning:
 - Reading
 - Writing
 - History
-- Working out (if I can find the motivation)
-- Recording and editing videos (not at the moment)
+- Working out
+- Recording and editing videos
 
 ### Games played in the last year
 - Total War: Warhammer III
@@ -55,6 +55,6 @@ Also learning:
 
 ### Fun facts
 - I've studed in three kindergartens.
-- I left HK for Canada in 2022.
+- I left Hong Kong for Canada in 2022.
 - I don't have a big friend group going on, but I treasure the time I spend with my individual friends.
 - Recently played my first game of tabletop Warhammer 40,000.
