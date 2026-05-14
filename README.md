@@ -1,5 +1,5 @@
 ## Hello, this is Lok Tin speaking...
-I am born in Hong Kong but currently living in Vancouver. Currently studying at The University of British Columbia as a second-year Computer Science student.
+I am born in Hong Kong but currently living in Vancouver and studying at The University of British Columbia as a second-year Computer Science student.
 
 ### Programming languages
 - Java
@@ -45,6 +45,7 @@ Also learning:
 - Need for Speed: Most Wanted (2012)
 - City Skylines
 - Cooking Simulator
+- Civilization V
 
 ### Music
 - Sabaton
@@ -57,4 +58,4 @@ Also learning:
 - I've studed in three kindergartens.
 - I left Hong Kong for Canada in 2022.
 - I don't have a big friend group going on, but I treasure the time I spend with my individual friends.
-- Recently played my first game of tabletop Warhammer 40,000.
+- Played my first game of tabletop Warhammer 40,000 in 2025.
