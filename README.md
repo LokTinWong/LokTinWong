@@ -25,6 +25,7 @@ Also learning:
 ### Currently... ⏳
 - Job searching
 - Making my Personal Portfolio fancier
+- Managing a gaming community of 150+ players
 - Playing modded Minecraft
 - Reading The Horus Heresy
 
@@ -46,6 +47,7 @@ Also learning:
 - City Skylines
 - Cooking Simulator
 - Civilization V
+- TORN
 
 ### Music
 - Sabaton
