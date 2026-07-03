@@ -25,9 +25,10 @@ Also learning:
 ### Currently... ⏳
 - Job searching
 - Making my Personal Portfolio fancier
-- Managing a gaming community of 150+ players
-- Playing modded Minecraft
+- Managing a gaming community of 100+ players
+- Playing Project Zomboid
 - Reading The Horus Heresy
+- Writing a story based on Watcher of Realms
 
 ### Interests
 - Video games
@@ -48,6 +49,8 @@ Also learning:
 - Cooking Simulator
 - Civilization V
 - TORN
+- Project Zomboid
+- Watcher of Realms
 
 ### Music
 - Sabaton
