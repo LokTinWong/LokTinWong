@@ -5,9 +5,9 @@ I am born in Hong Kong but currently living in Vancouver and studying at The Uni
 - Java
 - HTML
 - CSS
+- C++
 
 Also learning:
-- C++
 - JavaScript + React
 - Typescript
 - Python
@@ -24,11 +24,8 @@ Also learning:
 
 ### Currently... ⏳
 - Job searching
-- Making my Personal Portfolio fancier
 - Managing a gaming community of 100+ players
-- Playing Project Zomboid
 - Reading The Horus Heresy
-- Writing a story based on Watcher of Realms
 
 ### Interests
 - Video games
@@ -38,19 +35,6 @@ Also learning:
 - History
 - Working out
 - Recording and editing videos
-
-### Games played in the last year
-- Total War: Warhammer III
-- Grand Theft Auto V
-- Minecraft
-- Sniper Elite 5
-- Need for Speed: Most Wanted (2012)
-- City Skylines
-- Cooking Simulator
-- Civilization V
-- TORN
-- Project Zomboid
-- Watcher of Realms
 
 ### Music
 - Sabaton
