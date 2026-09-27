@@ -8,9 +8,7 @@ I am born in Hong Kong but currently living in Vancouver and studying at The Uni
 - C++
 
 Also learning:
-- JavaScript + React
-- Typescript
-- Python
+- JavaScript/Typescript + React
 
 ### Speakable languages
 - English
@@ -23,7 +21,6 @@ Also learning:
 - Warhammer 40,000 Character Database
 
 ### Currently... ⏳
-- Job searching
 - Managing a gaming community of 100+ players
 - Reading The Horus Heresy
 
